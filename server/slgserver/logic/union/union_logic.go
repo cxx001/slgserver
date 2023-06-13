@@ -3,9 +3,9 @@ package union
 import (
 	"sync"
 
-	"github.com/llr104/slgserver/log"
-	"github.com/llr104/slgserver/server/slgserver/logic/mgr"
-	"github.com/llr104/slgserver/server/slgserver/model"
+	"slgserver/log"
+	"slgserver/server/slgserver/logic/mgr"
+	"slgserver/server/slgserver/model"
 	"go.uber.org/zap"
 )
 

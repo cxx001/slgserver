@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/llr104/slgserver/log"
+	"slgserver/log"
 	"go.uber.org/zap"
 )
 

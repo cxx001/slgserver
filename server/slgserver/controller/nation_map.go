@@ -2,14 +2,14 @@ package controller
 
 import (
 	"github.com/goinggo/mapstructure"
-	"github.com/llr104/slgserver/constant"
-	"github.com/llr104/slgserver/middleware"
-	"github.com/llr104/slgserver/net"
-	"github.com/llr104/slgserver/server/slgserver/logic"
-	"github.com/llr104/slgserver/server/slgserver/logic/mgr"
-	"github.com/llr104/slgserver/server/slgserver/model"
-	"github.com/llr104/slgserver/server/slgserver/proto"
-	"github.com/llr104/slgserver/server/slgserver/static_conf"
+	"slgserver/constant"
+	"slgserver/middleware"
+	"slgserver/net"
+	"slgserver/server/slgserver/logic"
+	"slgserver/server/slgserver/logic/mgr"
+	"slgserver/server/slgserver/model"
+	"slgserver/server/slgserver/proto"
+	"slgserver/server/slgserver/static_conf"
 )
 
 var DefaultMap = NationMap{}

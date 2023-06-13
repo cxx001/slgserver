@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/llr104/slgserver/server/slgserver/proto"
+	"slgserver/server/slgserver/proto"
 )
 
 type Role struct {

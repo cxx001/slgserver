@@ -7,9 +7,9 @@ import (
 	"os"
 	"path"
 
-	"github.com/llr104/slgserver/config"
-	"github.com/llr104/slgserver/log"
-	"github.com/llr104/slgserver/server/slgserver/static_conf/facility"
+	"slgserver/config"
+	"slgserver/log"
+	"slgserver/server/slgserver/static_conf/facility"
 	"go.uber.org/zap"
 )
 

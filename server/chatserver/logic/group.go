@@ -4,8 +4,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/llr104/slgserver/net"
-	"github.com/llr104/slgserver/server/chatserver/proto"
+	"slgserver/net"
+	"slgserver/server/chatserver/proto"
 )
 
 type Group struct {

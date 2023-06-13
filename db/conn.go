@@ -6,7 +6,7 @@ import (
 	"os"
 
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/llr104/slgserver/config"
+	"slgserver/config"
 	"xorm.io/xorm"
 	"xorm.io/xorm/log"
 )

@@ -4,13 +4,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/llr104/slgserver/db"
-	"github.com/llr104/slgserver/log"
-	"github.com/llr104/slgserver/server/slgserver/model"
-	"github.com/llr104/slgserver/server/slgserver/static_conf"
-	"github.com/llr104/slgserver/server/slgserver/static_conf/general"
-	"github.com/llr104/slgserver/server/slgserver/static_conf/npc"
-	"github.com/llr104/slgserver/util"
+	"slgserver/db"
+	"slgserver/log"
+	"slgserver/server/slgserver/model"
+	"slgserver/server/slgserver/static_conf"
+	"slgserver/server/slgserver/static_conf/general"
+	"slgserver/server/slgserver/static_conf/npc"
+	"slgserver/util"
 	"go.uber.org/zap"
 )
 

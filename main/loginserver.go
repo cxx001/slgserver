@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/llr104/slgserver/config"
-	"github.com/llr104/slgserver/net"
-	"github.com/llr104/slgserver/server/loginserver"
+	"slgserver/config"
+	"slgserver/net"
+	"slgserver/server/loginserver"
 )
 
 func getLoginServerAddr() string {

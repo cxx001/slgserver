@@ -4,13 +4,13 @@ import (
 	"sync"
 
 	"github.com/goinggo/mapstructure"
-	"github.com/llr104/slgserver/constant"
-	"github.com/llr104/slgserver/log"
-	"github.com/llr104/slgserver/middleware"
-	"github.com/llr104/slgserver/net"
-	"github.com/llr104/slgserver/server/chatserver/logic"
-	"github.com/llr104/slgserver/server/chatserver/proto"
-	"github.com/llr104/slgserver/util"
+	"slgserver/constant"
+	"slgserver/log"
+	"slgserver/middleware"
+	"slgserver/net"
+	"slgserver/server/chatserver/logic"
+	"slgserver/server/chatserver/proto"
+	"slgserver/util"
 	"go.uber.org/zap"
 )
 

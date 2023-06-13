@@ -4,9 +4,9 @@ import (
 	"sync"
 
 	"github.com/gorilla/websocket"
-	"github.com/llr104/slgserver/log"
-	"github.com/llr104/slgserver/server/slgserver/conn"
-	"github.com/llr104/slgserver/server/slgserver/pos"
+	"slgserver/log"
+	"slgserver/server/slgserver/conn"
+	"slgserver/server/slgserver/pos"
 	"go.uber.org/zap"
 )
 

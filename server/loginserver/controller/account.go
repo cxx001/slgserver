@@ -4,14 +4,14 @@ import (
 	"time"
 
 	"github.com/goinggo/mapstructure"
-	"github.com/llr104/slgserver/constant"
-	"github.com/llr104/slgserver/db"
-	"github.com/llr104/slgserver/log"
-	"github.com/llr104/slgserver/middleware"
-	"github.com/llr104/slgserver/net"
-	"github.com/llr104/slgserver/server/loginserver/model"
-	"github.com/llr104/slgserver/server/loginserver/proto"
-	"github.com/llr104/slgserver/util"
+	"slgserver/constant"
+	"slgserver/db"
+	"slgserver/log"
+	"slgserver/middleware"
+	"slgserver/net"
+	"slgserver/server/loginserver/model"
+	"slgserver/server/loginserver/proto"
+	"slgserver/util"
 	"go.uber.org/zap"
 )
 

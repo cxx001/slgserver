@@ -5,11 +5,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/llr104/slgserver/constant"
-	"github.com/llr104/slgserver/db"
-	"github.com/llr104/slgserver/log"
-	"github.com/llr104/slgserver/server/slgserver/model"
-	"github.com/llr104/slgserver/server/slgserver/static_conf/facility"
+	"slgserver/constant"
+	"slgserver/db"
+	"slgserver/log"
+	"slgserver/server/slgserver/model"
+	"slgserver/server/slgserver/static_conf/facility"
 	"go.uber.org/zap"
 )
 

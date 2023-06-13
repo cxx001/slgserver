@@ -6,11 +6,11 @@ import (
 	"time"
 
 	"github.com/labstack/echo/v4"
-	"github.com/llr104/slgserver/constant"
-	"github.com/llr104/slgserver/db"
-	myhttp "github.com/llr104/slgserver/server/httpserver"
-	"github.com/llr104/slgserver/server/loginserver/model"
-	"github.com/llr104/slgserver/util"
+	"slgserver/constant"
+	"slgserver/db"
+	myhttp "slgserver/server/httpserver"
+	"slgserver/server/loginserver/model"
+	"slgserver/util"
 )
 
 type UserLogic struct{}

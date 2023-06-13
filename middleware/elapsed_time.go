@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/llr104/slgserver/log"
-	"github.com/llr104/slgserver/net"
+	"slgserver/log"
+	"slgserver/net"
 	"go.uber.org/zap"
 )
 

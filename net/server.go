@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/websocket"
-	"github.com/llr104/slgserver/log"
+	"slgserver/log"
 	"go.uber.org/zap"
 )
 

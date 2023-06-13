@@ -7,11 +7,11 @@ import (
 	"os"
 	"sync"
 
-	"github.com/llr104/slgserver/config"
-	"github.com/llr104/slgserver/log"
-	"github.com/llr104/slgserver/server/slgserver/global"
-	"github.com/llr104/slgserver/server/slgserver/model"
-	"github.com/llr104/slgserver/util"
+	"slgserver/config"
+	"slgserver/log"
+	"slgserver/server/slgserver/global"
+	"slgserver/server/slgserver/model"
+	"slgserver/util"
 	"go.uber.org/zap"
 )
 

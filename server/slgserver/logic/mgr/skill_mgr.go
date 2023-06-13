@@ -3,9 +3,9 @@ package mgr
 import (
 	"sync"
 
-	"github.com/llr104/slgserver/db"
-	"github.com/llr104/slgserver/log"
-	"github.com/llr104/slgserver/server/slgserver/model"
+	"slgserver/db"
+	"slgserver/log"
+	"slgserver/server/slgserver/model"
 	"go.uber.org/zap"
 )
 

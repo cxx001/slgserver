@@ -9,8 +9,8 @@ import (
 	"github.com/forgoer/openssl"
 	"github.com/goinggo/mapstructure"
 	"github.com/gorilla/websocket"
-	"github.com/llr104/slgserver/log"
-	"github.com/llr104/slgserver/util"
+	"slgserver/log"
+	"slgserver/util"
 	"go.uber.org/zap"
 )
 

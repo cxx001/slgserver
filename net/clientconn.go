@@ -10,9 +10,9 @@ import (
 	"github.com/forgoer/openssl"
 	"github.com/goinggo/mapstructure"
 	"github.com/gorilla/websocket"
-	"github.com/llr104/slgserver/constant"
-	"github.com/llr104/slgserver/log"
-	"github.com/llr104/slgserver/util"
+	"slgserver/constant"
+	"slgserver/log"
+	"slgserver/util"
 	"go.uber.org/zap"
 )
 

@@ -3,7 +3,7 @@ package net
 import (
 	"strings"
 
-	"github.com/llr104/slgserver/log"
+	"slgserver/log"
 	"go.uber.org/zap"
 )
 
